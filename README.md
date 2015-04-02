@@ -6,7 +6,7 @@ I've also taken to re-writing other peoples solutions to drill into my mind why 
 # Lessons I have learned so far
 
  * Node code looks wierd to me - I understand that statements in JavaScript need not end with a semi-colon when the statements are written with appropriate consideration.
-    also, I do not understand this enough to trust myself writing such code.
+    However I do not yet understand this well enough to trust myself writing javascript in such a style.
  * My first solutions tend to be long-winded, uninformed botch-jobs.
  * I am beginning to understand why callbacks are awesome. :O
  * the Array.prototype.forEach is a new iterator for me which I love using in place of my go-to for loop. (i.e. for ( i=0; i<array.length; i++ ) {/* do stuff */} ) 
