@@ -1,5 +1,6 @@
 # darrenk-nodeschool-solutions
-Some of the solutions I've bodged together for nodeschool.io's exercises in an attempt to teach myself programming.
+This repo contains the solutions I've bodged together for nodeschool.io's learnyounode exercises in an attempt to teach myself programming.
+The solutions presented here have each successfully solved the related exercises' problem, so you know they 'work' given those conditions.
 Honestly I'm learning tonnes with every exercise; from my failed attempts, comparing solutions and reading more about JavaScript.
 I've also taken to re-writing other peoples solutions to drill into my mind why they have done things that I have not.
 
@@ -26,3 +27,5 @@ I've also taken to re-writing other peoples solutions to drill into my mind why 
  
  When I completed lesson 6 I went and made rollchar, a node.js version of a small long-shelved javascript project. http://github.com/darrenknet/rollchar
  Then I completed lesson 7. After my reading of the various documentation for this exercise, and some perusale of various helper modules, I've decided to write my own node.js server that routes and serves a new and improves rollchar web app.
+ 
+ My solution for exercise 9 (juggling async) was written to be used with at least one argument as a pointer for the http get request to get some data from. However I wrote it in such a way as it can be given as many url arguments as you wish, however I have not tested it outside of the learnyounode environment and am unsure how it would react to many connections or errors.
